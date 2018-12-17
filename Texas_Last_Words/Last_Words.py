@@ -1,3 +1,5 @@
+# Code used for this projeject originated from: https://github.com/MattScicluna/Death-Row Credit: Matt Scicluna
+
 import urllib.request
 from bs4 import BeautifulSoup
 import csv
